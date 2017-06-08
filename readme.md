@@ -1,6 +1,8 @@
 # Self Publishing Toolkit
 
-This repository hosts the self publishing toolkit. It is  and When finished, this
+This repository hosts a self publishing toolkit.
+
+Still in progress...
 
 ## Roadmap 
 
